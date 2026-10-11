@@ -1,0 +1,6 @@
+{
+  "name": "b7b-market",
+  "description": "B7b fixture marketplace.",
+  "owner": {"name": "ElasticFlow acceptance"},
+  "plugins": [{"name": "b7b-scope-plugin", "description": "Root plugin.", "source": "./"}]
+}
