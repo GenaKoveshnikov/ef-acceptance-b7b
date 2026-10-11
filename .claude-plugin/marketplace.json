@@ -1,6 +1,19 @@
 {
   "name": "b7b-market",
   "description": "B7b fixture marketplace.",
-  "owner": {"name": "ElasticFlow acceptance"},
-  "plugins": [{"name": "b7b-scope-plugin", "description": "Root plugin.", "source": "./"}]
+  "owner": {
+    "name": "ElasticFlow acceptance"
+  },
+  "plugins": [
+    {
+      "name": "b7b-scope-plugin",
+      "description": "Root plugin.",
+      "source": "./"
+    },
+    {
+      "name": "cross-remote",
+      "description": "Row resolving a pack in ANOTHER repository.",
+      "source": "https://github.com/GenaKoveshnikov/ef-acceptance-b7"
+    }
+  ]
 }
