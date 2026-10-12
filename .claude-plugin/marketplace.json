@@ -14,6 +14,16 @@
       "name": "cross-remote",
       "description": "Row resolving a pack in ANOTHER repository.",
       "source": "https://github.com/GenaKoveshnikov/ef-acceptance-b7"
+    },
+    {
+      "name": "choose-a",
+      "description": "Choose probe A \u2014 twin-skill carrier.",
+      "source": "./plugins/choose-a"
+    },
+    {
+      "name": "choose-b",
+      "description": "Choose probe B \u2014 twin-skill carrier.",
+      "source": "./plugins/choose-b"
     }
   ]
 }
