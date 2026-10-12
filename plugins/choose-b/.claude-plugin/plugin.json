@@ -1,0 +1,7 @@
+{
+  "name": "choose-b",
+  "version": "1.0.0",
+  "description": "Choose probe B — its skill also declares name twin-skill.",
+  "author": { "name": "ElasticFlow acceptance" },
+  "skills": ["./skills/mirror"]
+}
